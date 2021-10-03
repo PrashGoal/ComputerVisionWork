@@ -4,6 +4,7 @@
 
 - Helps in scrolling up/down
 - Helps to avoid using keyboard
+- Just show your hand and scroll
 
 This python applications help in scrolling the web pages, from upside to downside and vice-versa.
 
